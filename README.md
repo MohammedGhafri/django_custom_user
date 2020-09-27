@@ -1,5 +1,3 @@
-# django_custom_user
-
 # Django Custom User
 
 ### Author: Mohammed Ghafri
